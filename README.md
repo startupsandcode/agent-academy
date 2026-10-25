@@ -19,7 +19,7 @@ An agent is a system that can work toward a goal by choosing steps, using availa
 
 | Episode | Status | Workbook |
 | --- | --- | --- |
-| 1. What is an agent? | Workbook ready; video coming soon | [Open Episode 1](episodes/01-what-is-an-agent.md) |
+| 1. What is an agent? | Workbook ready; video published | [Open Episode 1](episodes/01-what-is-an-agent.md) · [Watch video](https://youtu.be/h11wBnB6c9o) |
 | 2. Give it a job, not just a prompt. | Coming soon — working title | [Open Episode 2](episodes/02-give-it-a-job-not-just-a-prompt.md) |
 | 3. The right context and tools. | Coming soon — working title | [Open Episode 3](episodes/03-the-right-context-and-tools.md) |
 | 4. Boundaries. | Coming soon — working title | [Open Episode 4](episodes/04-boundaries.md) |
@@ -27,7 +27,7 @@ An agent is a system that can work toward a goal by choosing steps, using availa
 | 6. Get unstuck. | Coming soon — working title | [Open Episode 6](episodes/06-get-unstuck.md) |
 | 7. A repeatable workflow. | Coming soon — working title | [Open Episode 7](episodes/07-a-repeatable-workflow.md) |
 
-**Videos:** Coming soon. No recording or publication status is confirmed here.
+**Videos:** Episode 1 is available above. Videos for Episodes 2–7: Coming soon.
 
 ## How to use this workbook
 

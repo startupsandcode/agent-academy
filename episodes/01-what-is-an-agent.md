@@ -1,5 +1,7 @@
 # Episode 1 — What Is an Agent?
 
+**Video:** [Watch Episode 1](https://youtu.be/h11wBnB6c9o)
+
 **Goal:** See the difference between asking for an answer and delegating a bounded task that can choose research steps, use available public tools, inspect what it finds, and return a draft for you to review.
 
 **Audience:** Professionals and business owners who do not code.
