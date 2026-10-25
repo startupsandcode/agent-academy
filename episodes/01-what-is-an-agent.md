@@ -18,7 +18,7 @@ Use the **same** seven complete UTC calendar days for Prompts A and B: the seven
 - End date (inclusive): `[END DATE]`
 - My fixed window: `[YYYY-MM-DD] through [YYYY-MM-DD], inclusive`
 
-For example, if you are recording on 2026-10-25 UTC, the seven complete days ending the day before are 2026-10-17 through 2026-10-23. This is an **illustration of date arithmetic only**, not a claim about news or events.
+For example, if you are recording on 2026-10-25 UTC, the seven complete days ending the day before are 2026-10-18 through 2026-10-24. This is an **illustration of date arithmetic only**, not a claim about news or events.
 
 If you cannot set the recording date yet, choose one fixed seven-day window and write it down before you begin. Do not silently broaden the window or fill empty slots. Replace both placeholders in each prompt with the exact same dates.
 
