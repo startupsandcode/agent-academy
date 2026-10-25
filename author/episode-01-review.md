@@ -4,7 +4,7 @@ This is production/review guidance. It is separate from the learner workbook. Th
 
 - **Canonical script:** [Agent Academy Episode 1 — What Is an Agent?](https://docs.google.com/document/d/1v3mHIqVG4yr0fadZbK87U1EH62U0RaCPjRxTThJ2VTI)
 - **Script status:** Delivered October 23, 2026.
-- **Recording/publication:** Not confirmed. Do not describe the episode as recorded or published without checking.
+- **Video:** [Watch Episode 1](https://youtu.be/h11wBnB6c9o); recording and public upload confirmed by the user.
 
 ## Before recording
 
