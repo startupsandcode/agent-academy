@@ -106,7 +106,7 @@ Record your check:
 
 ## Run C — give feedback and compare the revision
 
-Use C only after you have inspected Run B. If you found an actual factual error, paste the correction and exact source URL before the prompt. If no error was found, use C alone. Do not manufacture an error to force a rewrite.
+After inspecting Run B, paste Prompt C into the same conversation where you ran Prompt B so it can use that draft and context. If you found an actual factual error, paste the correction and exact source URL before Prompt C. If no error was found, paste Prompt C alone. Do not manufacture an error to force a rewrite.
 
 ```text
 Revise the briefing for a five-person consulting firm that cannot put client information into a new tool.
