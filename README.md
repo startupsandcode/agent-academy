@@ -20,17 +20,19 @@ An agent is a system that can work toward a goal by choosing steps, using availa
 | Episode | Status | Workbook |
 | --- | --- | --- |
 | 1. What is an agent? | Workbook ready; video published | [Open Episode 1](episodes/01-what-is-an-agent.md) · [Watch video](https://youtu.be/h11wBnB6c9o) |
-| 2. Give it a job, not just a prompt. | Coming soon — working title | [Open Episode 2](episodes/02-give-it-a-job-not-just-a-prompt.md) |
+| 2. Give it a job, not just a prompt. | Workbook ready; video published | [Open Episode 2](episodes/02-give-it-a-job-not-just-a-prompt.md) · [Watch video](https://youtu.be/T0Lq0j8nEqU) |
 | 3. The right context and tools. | Coming soon — working title | [Open Episode 3](episodes/03-the-right-context-and-tools.md) |
 | 4. Boundaries. | Coming soon — working title | [Open Episode 4](episodes/04-boundaries.md) |
 | 5. Check the work. | Coming soon — working title | [Open Episode 5](episodes/05-check-the-work.md) |
 | 6. Get unstuck. | Coming soon — working title | [Open Episode 6](episodes/06-get-unstuck.md) |
 | 7. A repeatable workflow. | Coming soon — working title | [Open Episode 7](episodes/07-a-repeatable-workflow.md) |
 
-**Videos:** Episode 1 is available above. Videos for Episodes 2–7: Coming soon.
+**Videos:** Episodes 1 and 2 are available above. Videos for Episodes 3–7: Coming soon.
 
 ## How to use this workbook
 
 Copy a prompt into a tool-enabled workspace only after checking what it can access and do. Do not include confidential or client information. A prompt cannot enforce security by itself; the tool's actual permissions and your review are what matter. Stop before sending, publishing, purchasing, signing up, contacting someone, or connecting business data.
 
-Scripts stay in their canonical Google Docs. The author guide links Episode 1's script for production/review and is not a learner-facing script download.
+Scripts stay in their canonical Google Docs. The author guides link the scripts for production/review and are not learner-facing script downloads.
+
+Continue with [Episode 2](episodes/02-give-it-a-job-not-just-a-prompt.md) to practice the five-part job brief using fictional project notes. Production references: [Episode 1 author guide](author/episode-01-review.md), [Episode 2 author guide](author/episode-02-review.md), and [Episode 2 YouTube title, description, and chapters](author/episode-02-youtube.txt).

@@ -1,0 +1,42 @@
+YOUTUBE TITLE
+
+Give ChatGPT a Job, Not Just a Prompt | Agent Academy Ep. 2
+
+YOUTUBE DESCRIPTION
+
+A vague request leaves ChatGPT with a lot to figure out. A clear job gives it a result to work toward, boundaries to follow, and a place to stop.
+
+In Episode 2 of Agent Academy, I walk through a practical browser demo: turning fictional client notes into a project brief that a human can review.
+
+We start with a broad request, then give ChatGPT a more specific assignment using a five-part job brief:
+
+• Result: What should it produce?
+• Audience: Who needs the result?
+• Allowed information and tools: What may it use?
+• Checks: What makes the result useful?
+• Stopping point: Where does the job end?
+
+Along the way, we look at clarifying questions, unresolved decisions, and when a draft needs a precise correction. The second conversation also receives additional answers from me, so we examine how those answers help shape the result.
+
+One important distinction: writing a boundary into a prompt does not configure an app’s actual access permissions.
+
+Your assignment: choose one small task, define the job, run it once, and check the result before taking the next step.
+
+CHAPTERS
+00:00 Give it a job, not just a prompt
+01:05 Starting with a broad request
+02:16 The five-part job brief
+05:53 Giving ChatGPT a reviewable job
+06:48 Answering clarifying questions
+07:36 Inspecting the project brief
+08:53 Where the human makes the decision
+09:29 Your first field test and what’s next
+
+Next in Agent Academy: the right context and tools.
+
+What small job would you give ChatGPT? Share it in the comments.
+
+Startups and Code | Agent Academy
+Practical AI workflows, one useful assignment at a time.
+
+#ChatGPT #AIWorkflow #AgentAcademy
