@@ -10,7 +10,7 @@ Episode 2 set the job. This time the job stays the same. We change what the AI c
 
 ## The exercise: a workshop registration FAQ
 
-Return to fictional Harbor Lane Consulting. Your task is to draft four answers for prospective attendees. Use three fresh chats with the same model, where practical, so a previous run cannot leak answers into the next one. Use only the fictional material below; no real accounts or client data are needed.
+Return to fictional Harbor Lane Consulting. Your task is to draft four answers for prospective attendees. Use three fresh chats with the same model, where practical, to reduce carryover. If your workspace can reuse chat history or saved memory, use temporary chats or turn off that carryover for the exercise if available. Use only the fictional material below; no real accounts or client data are needed.
 
 Open [the demo kit](03-demo/README.md) for the exact copy/paste prompts, sources, run steps, and illustrative outputs.
 
